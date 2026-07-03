@@ -1,29 +1,3 @@
-<div align="center">
-
-<img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" alt="VibeFlow — see the world, hear the vibe" width="100%" />
-
-<br /><br />
-
-<a href="https://vibeflow-three.vercel.app"><img src="https://img.shields.io/badge/Live-vibeflow--three.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="live on vercel" /></a>
-<img src="https://img.shields.io/badge/VibeFlow-Vision_Sync-6C5CE7?style=for-the-badge&logoColor=white" alt="app" />
-<img src="https://img.shields.io/badge/Built_in-AI_Studio-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="ai studio" />
-<img src="https://img.shields.io/badge/Runs-On--device_Vision-3DDC84?style=for-the-badge&logo=tensorflow&logoColor=white" alt="on-device" />
-<img src="https://img.shields.io/badge/Architecture-Local--first-10B981?style=for-the-badge" alt="local-first" />
-
-<br />
-
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-<img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-v4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
-<img src="https://img.shields.io/badge/Gemini-flash--lite-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="gemini" />
-<img src="https://img.shields.io/badge/TensorFlow.js-COCO--SSD-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tfjs" />
-<img src="https://img.shields.io/badge/MediaPipe-FaceLandmarker-00A98F?style=for-the-badge&logo=google&logoColor=white" alt="mediapipe" />
-<img src="https://img.shields.io/badge/Three.js-Reactive_Visualizer-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="three" />
-<img src="https://img.shields.io/badge/Web_Audio-Procedural_Engine-F7DF1E?style=for-the-badge&logo=webaudio&logoColor=black" alt="web audio" />
-
-<br /><br />
-
 ```text
 ██╗   ██╗██╗██████╗ ███████╗███████╗██╗      ██████╗ ██╗    ██╗
 ██║   ██║██║██╔══██╗██╔════╝██╔════╝██║     ██╔═══██╗██║    ██║
